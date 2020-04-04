@@ -1,0 +1,23 @@
+.col-1,
+.col-2,
+.col-3 {
+    background-color: green;
+    border: black solid 1px;
+}
+
+.col-4,
+.col-6 {
+    background-color: blue;
+    border: black solid 1px;
+}
+
+.filaRoja {
+    background-color: red;
+    height: 200px;
+    margin-bottom: 20px;
+}
+
+.filaVerde {
+    background-color: green;
+    margin-bottom: 20px;
+}
